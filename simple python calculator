@@ -1,14 +1,5 @@
 #KAIGU ANN WANGARI SCT211-0772/2022
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter the second number: "))
-print("\nEnter option (a,b,c or d):")
-print("a)Addition \tb)Subtraction\nc)Multiplication d)Division")
-option = input()
-if (option == "a"):
-    print("The sum is: ", (num1+num2))
-elif (option == "b"):
-    print("The difference is: ", (num1-num2))
-elif (option == "c"):
-    print("The product is: ", (num1*num2))
-else:
-    print("The quotient is: ", (num1/num2))
+sum = num1+num2
+print("The sum of the two numbers is:" ,(sum))
