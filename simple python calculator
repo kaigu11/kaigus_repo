@@ -1,3 +1,4 @@
+#KAIGU ANN WANGARI SCT211-0772/2022
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter the second number: "))
 print("\nEnter option (a,b,c or d):")
