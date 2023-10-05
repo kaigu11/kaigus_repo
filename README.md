@@ -1,3 +1,3 @@
 # kaigus_repo
-a simple python calculator that takes in input of two numbers and outputs the sum
+Assignments:simple python calculator, age calculator, tip calculator, BMI calculator and a leap year check app
 
