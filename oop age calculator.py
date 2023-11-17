@@ -1,3 +1,5 @@
+#KAIGU ANN WANGARI
+#SCT211-0772/2022
 class ageCalculator:
     def __init__(self, birth_year, current_year):
         self.birth_year = birth_year
